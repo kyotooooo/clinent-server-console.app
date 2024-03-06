@@ -1,0 +1,3 @@
+﻿  Client.cpp
+C:\Users\kotsy\source\repos\Client\Client.cpp(93,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Client.vcxproj -> C:\Users\kotsy\source\repos\Client\x64\Debug\Client.exe
